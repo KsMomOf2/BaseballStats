@@ -34,6 +34,7 @@ import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
 // TODO HERE IS A CHANGE
+//Here is another change
 /**
  * A login screen that offers login via email/password.
  */
